@@ -1,0 +1,20 @@
+
+out_dir: vmifnet
+model: VMIFNet
+
+criterion: BCE
+out_type: logits
+# Optimizer
+optimizer: Adamw
+lr: 0.001
+weight_decay: 0.01
+
+schedulers:
+  - name: CosineAnnealingLR
+    T_max: 100
+
+vmifnet_model:
+  bkbn_size: 'small'
+
+device: cuda:2
+batch_size: 2

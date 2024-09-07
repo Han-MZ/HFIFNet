@@ -1,0 +1,7 @@
+# S2Looking+SNUNet
+
+lr: 0.0002
+out_dir: snunet
+model: SNUNet
+
+device: cuda:1

@@ -1,0 +1,10 @@
+# NALand+L-UNet
+
+out_dir: lunet
+model: LUNet
+# Optimizer
+optimizer: Adamw
+lr: 0.001
+weight_decay: 0.01
+
+device: cuda:1

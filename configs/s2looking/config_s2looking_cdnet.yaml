@@ -1,0 +1,4 @@
+# S2Looking+CDNet
+
+out_dir: cdnet
+model: CDNet
