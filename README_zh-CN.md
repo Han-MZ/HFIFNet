@@ -3,26 +3,25 @@
 
 ## 依赖库
 
-> torch # for full alignment 2.2.0
-  torchvision
-  torchaudio
-  packaging
-  triton
-  timm==0.4.12
-  pytest 
-  chardet 
-  yacs 
-  termcolor
-  submitit 
-  tensorboardX
-  fvcore
+> torch # for full alignment 2.2.0  
+  torchvision  
+  torchaudio  
+  packaging  
+  triton  
+  timm==0.4.12  
+  pytest  
+  chardet  
+  yacs  
+  termcolor  
+  submitit  
+  tensorboardX  
+  fvcore  
   seabornpytorch==1.6.0  
-  torchvision==0.7.0  
   pyyaml==5.1.2  
   scikit-image==0.15.0  
   scikit-learn==0.21.3  
   scipy==1.3.1  
-  tqdm==4.35.0
+  tqdm==4.35.0  
   opencv-python
 
 在 Python 3.10，Ubuntu 16.04 环境下测试通过。
