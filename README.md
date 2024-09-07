@@ -3,7 +3,7 @@ English | [简体中文](README_zh-CN.md)
 
 ## Prerequisites
 
-> torch # for full alignment 2.2.0  
+> torch   
   torchvision  
   torchaudio  
   packaging  

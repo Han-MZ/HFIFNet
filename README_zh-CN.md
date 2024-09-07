@@ -3,7 +3,7 @@
 
 ## 依赖库
 
-> torch # for full alignment 2.2.0  
+> torch   
   torchvision  
   torchaudio  
   packaging  
