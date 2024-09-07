@@ -1,5 +1,5 @@
 
-English | [简体中文](../MSA-CD/README_zh-CN.md)
+English | [简体中文](../VMIFNet/README_zh-CN.md)
 
 ## Prerequisites
 
