@@ -84,9 +84,9 @@ python sw_test.py --exp_config PATH_TO_CONFIG_FILE \
 
 ### 数据集（弱目标）
 
-S2Looking-Weak：[百度网盘](https://pan.baidu.com/s/1HNYiivLxLT8I7ogiJ4V1xA?pwd=xizc)
+**S2Looking-Weak**：[百度网盘](https://pan.baidu.com/s/1HNYiivLxLT8I7ogiJ4V1xA?pwd=xizc)
 
-LEVIR-CD-Weak：[百度网盘](https://pan.baidu.com/s/1jWaWooz5hnR-I2NY44BJ3g?pwd=f659)
+**LEVIR-CD-Weak**：[百度网盘](https://pan.baidu.com/s/1jWaWooz5hnR-I2NY44BJ3g?pwd=f659)
 
 ## 开发指南
 
