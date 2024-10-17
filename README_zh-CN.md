@@ -82,6 +82,12 @@ python sw_test.py --exp_config PATH_TO_CONFIG_FILE \
 
 不过，请注意当前 `src/sw_test.py` 功能有限，并不支持一些较为复杂的自定义预处理和后处理模块。
 
+### 数据集（弱目标）
+
+S2Looking-Weak：[百度网盘](https://pan.baidu.com/s/1HNYiivLxLT8I7ogiJ4V1xA?pwd=xizc)
+
+LEVIR-CD-Weak：[百度网盘](https://pan.baidu.com/s/1jWaWooz5hnR-I2NY44BJ3g?pwd=f659)
+
 ## 开发指南
 
 请参见 [CDLab](https://github.com/Bobholamovic/CDLab) `docs/` 目录中的内容。
