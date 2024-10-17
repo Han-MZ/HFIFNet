@@ -82,6 +82,12 @@ Other frequently used commandline options of `src/sw_test.py` include:
 
 Note however that currently `src/sw_test.py` does not support custom pre-processing or post-processing modules.
 
+## Datasets (weak targets)
+
+**S2Looking-Weak**: [Click](https://pan.baidu.com/s/1HNYiivLxLT8I7ogiJ4V1xA?pwd=xizc)
+
+**LEVIR-CD-Weak**: [Click](https://pan.baidu.com/s/1jWaWooz5hnR-I2NY44BJ3g?pwd=f659)
+
 ## developer document
 
 please refer to [CDLab](https://github.com/Bobholamovic/CDLab) `docs/`
