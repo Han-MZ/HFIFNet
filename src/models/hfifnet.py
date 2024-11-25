@@ -1,5 +1,5 @@
 from torch import Tensor
-from .module.base_vmifnet import (
+from .module.base_hfifnet import (
     getBackbone,
     DBIM,
     MFFM,
