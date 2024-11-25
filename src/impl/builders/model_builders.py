@@ -80,10 +80,10 @@ def build_tinycd_model(C):
     return TinyCD(**C['tinycd_model'])
 
 
-@MODELS.register_func('VMIFNet_model')
+@MODELS.register_func('HFIFNet_model')
 def build_vmifnet_model(C):
     from models.vmifnet import VMIFNet
-    return VMIFNet(**C['vmifnet_model'])
+    return VMIFNet(**C['hfifnet_model'])
 
 
 @MODELS.register_func('CDP_model')
