@@ -1,6 +1,6 @@
 
-out_dir: vmifnet
-model: VMIFNet
+out_dir: hfifnet
+model: HFIFNet
 
 criterion: BCE
 out_type: logits
