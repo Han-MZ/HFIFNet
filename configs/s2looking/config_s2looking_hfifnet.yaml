@@ -13,7 +13,7 @@ schedulers:
   - name: CosineAnnealingLR
     T_max: 100
 
-vmifnet_model:
+hfifnet_model:
   bkbn_size: 'small'
 
 device: cuda:3
