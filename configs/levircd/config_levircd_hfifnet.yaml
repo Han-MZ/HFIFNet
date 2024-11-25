@@ -1,6 +1,6 @@
 
 out_dir: hfifnet
-model: HFIFNET
+model: HFIFNet
 
 criterion: BCE
 out_type: logits
